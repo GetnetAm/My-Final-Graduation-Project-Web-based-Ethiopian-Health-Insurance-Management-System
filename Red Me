@@ -1,0 +1,40 @@
+
+
+
+
+Befor open this project you must red this step
+
+1, upload from database design folder which name is database
+
+after uploading the database you can enter as admin
+ 
+ click login and select role
+ from the role select admin 
+ the admin password and username is 
+ username ===  "admin1";
+ password===="12345";
+
+
+ then after login with admin role you can register manager for the manager you must given the password and username the every password must be greter than 5 character
+
+ after register manager you can login with manager role and in the manager role you can register
+ -kebele admin
+ -health center
+ -red cross
+ then after register kebele admin you can enter as kebele admin role
+ then you can register
+ -customer
+ -customer family
+
+ after register customer you can login as customer role
+
+
+
+ the health center and red cross can search customer 
+ regsiter the insurance company cover for the customer and view customer payment
+
+
+
+ Developer Getnet Amsalu ,Department of Software Engineering, at Debre Berhan University.
+
+ if you get any problem you can askme!!!!!!!!!
