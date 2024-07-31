@@ -71,3 +71,12 @@ For any inquiries or feedback, please contact:
 ---
 
 Feel free to modify this template to fit your project's specific features, technologies, and requirements!
+
+  screen shoot projects
+  ![in2](https://github.com/user-attachments/assets/8bdf0ea5-12f2-4650-ba6c-7f2e88d7a8c9)
+![in1](https://github.com/user-attachments/assets/437b65af-357b-4a15-bd15-4d4ccdd91f16)
+![insu3](https://github.com/user-attachments/assets/43ecb53e-44ca-4169-a499-dde6011da644)
+![in5](https://github.com/user-attachments/assets/57eeb913-762d-4e7f-b1f4-7e25b02dd30e)
+![in4](https://github.com/user-attachments/assets/0f079bf3-1df0-41c2-9b8b-e3fffc698deb)
+![in3](https://github.com/user-attachments/assets/56d61e3d-7469-420a-aa8a-14067f37b76c)
+
